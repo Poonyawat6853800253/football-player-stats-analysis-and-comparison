@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Football Players Stats 2024/2025 Analysis ⚽📊
 
 This project analyzes football player statistics from the 2024/2025 season using Python.  
@@ -37,3 +38,7 @@ The dataset contains approximately:
 
 ```text
 2854 rows × 165 columns
+=======
+# football-player-stats-analysis-and-comparison
+Football Players Stats 2024/2025 analysis using Python. This project explores player performance through EDA, goals, assists, xG, league and position comparison, young talent analysis, per-90 metrics, and a simple recruitment scoring system for transfer decision support.
+>>>>>>> c9c445b540f55f62b5c708e24c05a911d7204703
